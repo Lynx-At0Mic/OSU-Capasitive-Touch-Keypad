@@ -8,20 +8,22 @@ This project is intended for use with provided 3d printed models although thease
 
 To do this project yourself you will need:
 
-1 * Arduino (any varient should work)
-1 * Breadbord
-2 * 1MΩ Resistor
-6 * Jumper wires (preferably long ones)
-1 * Roll of foil
+-1 * Arduino (any varient should work)
+-1 * Breadbord
+-2 * 1MΩ Resistor
+-6 * Jumper wires (preferably long ones)
+-1 * Roll of foil
 
 Optional:
 
 3D printed models (will work without them but the feel is alot better)
+
 A favorite pet, freind, family member, significant other or comfort item of your chosing
 
 # Step 1
 
 Make sure you have all the required software installed correctly before starting
+
 -Python 3.7 https://www.python.org/
 -Pip https://pypi.org/project/pip/ 
 -pynput (run command "pip install pyinput" in the command prompt after installing pip)
@@ -30,16 +32,17 @@ Make sure you have all the required software installed correctly before starting
 
 # Step 2
 
-Attach a 1MΩ resistor between pins 8,10 and 11,13 or whatever pins you changed the arduino script to use. Then attach a wire to pins 8 and 13. (Thease will connect to the touch pads)
+-Attach a 1MΩ resistor between pins 8,10 and 11,13 or whatever pins you changed the arduino script to use. Then attach a wire to pins 8 and 13. (Thease will connect to the touch pads)
+
 Wiring diagram is provided (note that the capasitors shown are your body when it touches the pins 8 and 13)
 
 # Step 3
 
-Make sure you change any pin values, com ports or keybindings in both scripts before using them.
-Upload the sketch to the arduino and then run the python script.
-Start OSU! and give it a test by toutching the output wires or attaching the wires to taped down foil.
-At this point you are done if you dont want to use the 3d printed models. Just tape the wires to taped down 2 sheets of taped down foil and have fun!
-If you encounter any problems or unexpected behaviour scroll down to the "Troubleshooting" section
+-Make sure you change any pin values, com ports or keybindings in both scripts before using them.
+-Upload the sketch to the arduino and then run the python script.
+-Start OSU! and give it a test by toutching the output wires or attaching the wires to taped down foil.
+-At this point you are done if you dont want to use the 3d printed models. Just tape the wires to taped down 2 sheets of taped down foil and have fun!
+-If you encounter any problems or unexpected behaviour scroll down to the "Troubleshooting" section
 
 # Step 4
 
@@ -47,10 +50,10 @@ Print the 3d printed models out. I reccomend that you use 0.1mm layer hight for 
 
 # Step 5
 
-Place foil over the keys and fit them in to the housing leaving about 2cm toward the front of the housing to attach the wire later.
-I reccomend dabbing a glue stick on the keys first to stop the foil from lifting when you tap.
-Slide the retainer through the housing and over the keys making sure that the foil is still sticking out.
-Finaly, attach the wire to the foil with tape and stick down the assembely with hot glue, routing the wires through the hole in the back
+-Place foil over the keys and fit them in to the housing leaving about 2cm toward the front of the housing to attach the wire later.
+-I reccomend dabbing a glue stick on the keys first to stop the foil from lifting when you tap.
+-Slide the retainer through the housing and over the keys making sure that the foil is still sticking out.
+-Finaly, attach the wire to the foil with tape and stick down the assembely with hot glue, routing the wires through the hole in the back
 
 # Troubleshooting
 
@@ -76,5 +79,5 @@ Key permanently pressed down:
 
 If you are having issues please feel free to contact me. lynxat0mic02@gmail.com
 
-#Things to do
+# Things to do
 -Make it so that an arduino nano can fit inside so it is all self contained
