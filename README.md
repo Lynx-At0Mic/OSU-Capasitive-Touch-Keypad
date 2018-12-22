@@ -50,10 +50,10 @@ Print the 3d printed models out. I reccomend that you use 0.1mm layer hight for 
 
 ## Step 5
 
--Place foil over the keys and fit them in to the housing leaving about 2cm toward the front of the housing to attach the wire later.
--I reccomend dabbing a glue stick on the keys first to stop the foil from lifting when you tap.
--Slide the retainer through the housing and over the keys making sure that the foil is still sticking out.
--Finaly, attach the wire to the foil with tape and stick down the assembely with hot glue, routing the wires through the hole in the back
+- Place foil over the keys and fit them in to the housing leaving about 2cm toward the front of the housing to attach the wire later.
+- I reccomend dabbing a glue stick on the keys first to stop the foil from lifting when you tap.
+- Slide the retainer through the housing and over the keys making sure that the foil is still sticking out.
+- Finaly, attach the wire to the foil with tape and stick down the assembely with hot glue, routing the wires through the hole in the back
 
 # Troubleshooting
 
