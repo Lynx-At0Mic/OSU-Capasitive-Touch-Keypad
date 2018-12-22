@@ -32,7 +32,7 @@ Make sure you have all the required software installed correctly before starting
 
 ## Step 2
 
--Attach a 1MΩ resistor between pins 8,10 and 11,13 or whatever pins you changed the arduino script to use. Then attach a wire to pins 8 and 13. (Thease will connect to the touch pads)
+Attach a 1MΩ resistor between pins 8,10 and 11,13 or whatever pins you changed the arduino script to use. Then attach a wire to pins 8 and 13. (Thease will connect to the touch pads)
 
 Wiring diagram is provided (note that the capasitors shown are your body when it touches the pins 8 and 13)
 
